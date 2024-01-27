@@ -1,0 +1,12 @@
+C:\Users\gaspa\Downloads\ModifiedSimplexMethod-master\ModifiedSimplexMethod-master\ModifiedSimplexMethod\obj\Release\MetodoSimplexRevisado.csproj.AssemblyReference.cache
+C:\Users\gaspa\Downloads\ModifiedSimplexMethod-master\ModifiedSimplexMethod-master\ModifiedSimplexMethod\obj\Release\ModifiedSimplexMethod.AboutBox.resources
+C:\Users\gaspa\Downloads\ModifiedSimplexMethod-master\ModifiedSimplexMethod-master\ModifiedSimplexMethod\obj\Release\ModifiedSimplexMethod.MainForm.resources
+C:\Users\gaspa\Downloads\ModifiedSimplexMethod-master\ModifiedSimplexMethod-master\ModifiedSimplexMethod\obj\Release\ModifiedSimplexMethod.SelectBasIndForm.resources
+C:\Users\gaspa\Downloads\ModifiedSimplexMethod-master\ModifiedSimplexMethod-master\ModifiedSimplexMethod\obj\Release\MetodoSimplexRevisado.csproj.GenerateResource.cache
+C:\Users\gaspa\Downloads\ModifiedSimplexMethod-master\ModifiedSimplexMethod-master\ModifiedSimplexMethod\obj\Release\MetodoSimplexRevisado.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Downloads\ModifiedSimplexMethod-master\ModifiedSimplexMethod-master\ModifiedSimplexMethod\bin\Release\MetodoSimplexModificado.exe.config
+C:\Users\gaspa\Downloads\ModifiedSimplexMethod-master\ModifiedSimplexMethod-master\ModifiedSimplexMethod\bin\Release\MetodoSimplexModificado.exe
+C:\Users\gaspa\Downloads\ModifiedSimplexMethod-master\ModifiedSimplexMethod-master\ModifiedSimplexMethod\bin\Release\MetodoSimplexModificado.pdb
+C:\Users\gaspa\Downloads\ModifiedSimplexMethod-master\ModifiedSimplexMethod-master\ModifiedSimplexMethod\obj\Release\MetodoSimplexModificado.Properties.Resources.resources
+C:\Users\gaspa\Downloads\ModifiedSimplexMethod-master\ModifiedSimplexMethod-master\ModifiedSimplexMethod\obj\Release\MetodoSimplexModificado.exe
+C:\Users\gaspa\Downloads\ModifiedSimplexMethod-master\ModifiedSimplexMethod-master\ModifiedSimplexMethod\obj\Release\MetodoSimplexModificado.pdb

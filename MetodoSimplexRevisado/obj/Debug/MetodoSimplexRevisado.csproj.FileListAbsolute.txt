@@ -1,0 +1,12 @@
+C:\Users\gaspa\Source\Repos\MetodoSimplexRevisado\MetodoSimplexRevisado\bin\Debug\MetodoSimplexModificado.exe.config
+C:\Users\gaspa\Source\Repos\MetodoSimplexRevisado\MetodoSimplexRevisado\bin\Debug\MetodoSimplexModificado.exe
+C:\Users\gaspa\Source\Repos\MetodoSimplexRevisado\MetodoSimplexRevisado\bin\Debug\MetodoSimplexModificado.pdb
+C:\Users\gaspa\Source\Repos\MetodoSimplexRevisado\MetodoSimplexRevisado\obj\Debug\MetodoSimplexRevisado.csproj.AssemblyReference.cache
+C:\Users\gaspa\Source\Repos\MetodoSimplexRevisado\MetodoSimplexRevisado\obj\Debug\ModifiedSimplexMethod.AboutBox.resources
+C:\Users\gaspa\Source\Repos\MetodoSimplexRevisado\MetodoSimplexRevisado\obj\Debug\ModifiedSimplexMethod.MainForm.resources
+C:\Users\gaspa\Source\Repos\MetodoSimplexRevisado\MetodoSimplexRevisado\obj\Debug\MetodoSimplexModificado.Properties.Resources.resources
+C:\Users\gaspa\Source\Repos\MetodoSimplexRevisado\MetodoSimplexRevisado\obj\Debug\ModifiedSimplexMethod.SelectBasIndForm.resources
+C:\Users\gaspa\Source\Repos\MetodoSimplexRevisado\MetodoSimplexRevisado\obj\Debug\MetodoSimplexRevisado.csproj.GenerateResource.cache
+C:\Users\gaspa\Source\Repos\MetodoSimplexRevisado\MetodoSimplexRevisado\obj\Debug\MetodoSimplexRevisado.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\Source\Repos\MetodoSimplexRevisado\MetodoSimplexRevisado\obj\Debug\MetodoSimplexModificado.exe
+C:\Users\gaspa\Source\Repos\MetodoSimplexRevisado\MetodoSimplexRevisado\obj\Debug\MetodoSimplexModificado.pdb
